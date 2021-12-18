@@ -13,7 +13,8 @@ Skills: JS / HTML / CSS / PHP
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: gmail: sanjidk24@gmail.com 
 
-
+Contact with me::
+<hr>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanjidk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/moshiur.rahaman.71271)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vinsmok_sanjid/)  
 
 

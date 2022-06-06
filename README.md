@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Mahmud Sanjid
-#### MERN Developer
+#### MERN Developer || Frontend Developer
 
 ![Profile views](https://gpvc.arturio.dev/Sanjidk)  
 
